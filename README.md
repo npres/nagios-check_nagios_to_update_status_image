@@ -1,0 +1,1 @@
+# nagios-check_nagios_to_update_status_image
