@@ -52,7 +52,7 @@ fechahora=$(date +'%Y-%m-%d %H:%M')
 # Configuration:
 check_nagios=/etc/NPRES/scripts/nagios/check_nagios.bash
 dirbase=/home/nelbren/dev/npres/output/theme/images/nagios
-port=22 # If port is null them run local check_nagios
+port=22 # If port is null then run local check_nagios
 timeout=3
 user=nagios
 system=nagios.host
